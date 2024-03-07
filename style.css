@@ -1,0 +1,88 @@
+/* Write some CSS below */
+header {
+    background-color: #FCCA5F;
+    padding: 10px;
+    height: 20vh;
+    text-align: left;
+    font-size:small;
+    color: #000000;
+    
+}
+
+    header img {
+        max-width: 150px; 
+         height:auto;
+         margin-left: 40px; 
+         
+    }
+
+section1 {
+    background-image: url(images/YDJJJJJJJ.jpg);
+    text-align: center;
+    color: #fff;
+    height: 80vh;
+    background-size: cover;
+    display: flex;
+    padding: 5em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7vw;
+}
+
+  body {
+    font-family: 'Overpass';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  section {
+    padding: 50px;
+    text-align: center;
+  }
+
+  h1 {
+    font-family: 'Chivo', sans-serif;
+    font-size: 5em;
+    color: #000000;
+  }
+
+  p {
+    color: #fff;
+  }
+
+  .signup-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #F6C759;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+
+  footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+section2 {
+    background-color: #F6C759;
+    padding: 20px;
+    text-align: center;
+    color: #0000;
+    height: 90vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
